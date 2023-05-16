@@ -1,0 +1,17 @@
+Colinha:
+
+git clone ENDEREÇO
+
+-- FECHA O BASH --
+
+git status 
+
+git add .
+
+git status
+
+git commit -m "nome que eu quiser"
+
+git push -u origin master
+
+Espero que gostem!
